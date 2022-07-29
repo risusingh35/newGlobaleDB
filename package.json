@@ -1,0 +1,24 @@
+{
+  "name": "srv",
+  "version": "1.0.0",
+  "description": "creating new Node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "risusingh35@gmail.com"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Risu Singh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.7"
+  }
+}
